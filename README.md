@@ -1,5 +1,5 @@
 ### 👋 Hey there! My name is Matias Villalba 
-I'm an undergraduate Economics major at Universidad del Pacífico in Lima, Perú. Interested in Research, Academia, and Data Science, especially in its applications on topics related to Social Development and Political Economy. 
+I'm an undergraduate Economics major at Universidad del Pacífico in Lima, Perú. Interested in Research, Academia, and Data Science, especially in its applications on topics related to Social Development. 
 
 <!--
 **mvillalbao/mvillalbao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
